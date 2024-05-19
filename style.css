@@ -1,0 +1,7 @@
+#game {
+    background-color: #2d3136;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px dotted rgb(50, 49, 49); /* Typo corrected from 'border: 1px dottedangered' */
+  }
